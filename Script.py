@@ -10,7 +10,7 @@ class script(object):
 
 👥 Mᴀɪɴ Cʜᴀɴɴᴇʟ @piro_tuts
 
-<b>😎 Pᴏᴡᴇʀᴇᴅ Bʏ @piroxbots</b>"""
+<b>😎 Hᴇʟᴘᴇʀ @piroxbots</b>"""
 
     HELP_TXT = """🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈𝗈𝗈  {} 🤓
 

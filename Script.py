@@ -11,7 +11,7 @@ class script(object):
 
 👥 Mᴀɪɴ Gʀᴏᴜᴘ @piro_tuts
 
-<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @piroxbots</b>"""
+<b>😎 Pᴏᴡᴇʀᴇᴅ Bʏ @piroxbots</b>"""
 
     HELP_TXT = """🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈𝗈𝗈  {} 🤓
 

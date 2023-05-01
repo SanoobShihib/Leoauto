@@ -16,14 +16,14 @@ class script(object):
 
 ○  ɪᴛ's Nᴏᴛᴇ Cᴏᴍᴘʟɪᴄᴀᴛᴇᴅ...🤓
 
-○  𝖲𝖾𝖺𝗋𝖼𝗁 𝗎𝗌𝗂𝗇𝗀 𝗂𝗇𝗅𝗂𝗇𝖾 𝗆𝗈𝖽𝖾
-𝖳𝗁𝗂𝗌 𝗆𝖾𝗍𝗁𝗈𝖽 𝗐𝗈𝗋𝗄𝗌 𝗈𝗇 𝖺𝗇𝗒 𝖼𝗁𝖺𝗍, 𝖩𝗎𝗌𝗍 𝗍𝗒𝗉𝖾 <b>Bot Username</b> 𝖺𝗇𝖽 𝗍𝗁𝖾𝗇 𝗅𝖾𝖺𝗏𝖾 𝖺 𝗌𝗉𝖺𝖼𝖾 𝖺𝗇𝖽 𝗌𝖾𝖺𝗋𝖼𝗁 𝖺𝗇𝗒 𝗆𝗈𝗏𝗂𝖾 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍...
+○  Sᴇᴀʀᴄʜ Usɪɴɢ ɪɴʟɪɴᴇ Mᴏᴅᴇ
+Tʜɪs Mᴇᴛʜᴏᴅ Wᴏʀᴋs Oɴ Aɴʏ Cʜᴀᴛ Jᴜsᴛ Tʏᴘᴇ <b>Bᴏᴛ UsᴇʀNᴀᴍᴇ</b> Aɴᴅ Tʜᴇɴ Lᴇᴀᴠᴇ A Sᴘᴀᴄᴇ ᴀɴᴅ Sᴇᴀʀᴄʜ Aɴʏ Mᴏᴠɪᴇ Yᴏᴜ Wᴀɴᴛ...
 
 🎬 Mᴀɪɴ Cʜᴀɴɴᴇʟ @AkFilms2022
 
-○ 𝖠𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌
+○ Aᴠᴀɪʟᴀʙʟᴇ Cᴏᴍᴍᴀɴᴅs
      
- /alive - Check I'm Alive..
+ /alive - Alive..
  /status - Bot Status
  /info - User info
  /ping - To get your ping

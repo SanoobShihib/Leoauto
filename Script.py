@@ -8,7 +8,7 @@ class script(object):
 
 ⚙️ Mᴏʀᴇ Hᴇʟᴘ /help
 
-🎬 Mᴀɪɴ Cʜᴀɴɴᴇʟ @AkFilms2022
+🎬 Mᴀɪɴ Cʜᴀɴɴᴇʟ @csmainchannel
 
 <b>😎 Hᴇʟᴘᴇʀ @L4LA10</b>"""
 
@@ -19,7 +19,7 @@ class script(object):
 ○  Sᴇᴀʀᴄʜ Usɪɴɢ ɪɴʟɪɴᴇ Mᴏᴅᴇ
 Tʜɪs Mᴇᴛʜᴏᴅ Wᴏʀᴋs Oɴ Aɴʏ Cʜᴀᴛ Jᴜsᴛ Tʏᴘᴇ <b>Bᴏᴛ UsᴇʀNᴀᴍᴇ</b> Aɴᴅ Tʜᴇɴ Lᴇᴀᴠᴇ A Sᴘᴀᴄᴇ ᴀɴᴅ Sᴇᴀʀᴄʜ Aɴʏ Mᴏᴠɪᴇ Yᴏᴜ Wᴀɴᴛ...
 
-🎬 Mᴀɪɴ Cʜᴀɴɴᴇʟ @AkFilms2022
+🎬 Mᴀɪɴ Cʜᴀɴɴᴇʟ @csmainchannel
 
 ○ Aᴠᴀɪʟᴀʙʟᴇ Cᴏᴍᴍᴀɴᴅs
      
@@ -44,7 +44,7 @@ Dᴏɴᴛ Sᴘᴀᴍ Mᴇ...🤒
 ○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
 ○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
 ○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : v1.0.1 [BeTa]
-○ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href='https://t.me/AkFilms2022'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>"""
+○ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href='https://t.me/csmainchannel'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 Special Thanks to EvaMaria Devs & Cloners for the codes 
@@ -138,7 +138,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 𝖳𝗈𝗍𝖺𝗅 𝖢𝗁𝖺𝗍𝗌: <code>{}</code>
 𝖴𝗌𝖾𝖽 𝖲𝗍𝗈𝗋𝖺𝗀𝖾: <code>{}</code>
 
-<b>😎 Pᴏᴡᴇʀᴇᴅ Bʏ Aᴋ Fɪʟᴍs Tᴇᴀᴍ</b>"""
+<b>😎 Pᴏᴡᴇʀᴇᴅ Bʏ 𝐂𝐒 𝐌𝐨𝐯𝐢𝐞𝐳 </b>"""
 
     LOG_TEXT_G = """#NewGroup
 𝖦𝗋𝗈𝗎𝗉 = {}(<code>{}</code>)
@@ -191,7 +191,7 @@ Request Again"""
     OWNER_INFO = """
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Sanoob_Achu_18'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
 
-○ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href='https://t.me/AkFilms2022'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>
+○ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href='https://t.me/csmainchannel'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>
 """
 
     NORSLTS = """

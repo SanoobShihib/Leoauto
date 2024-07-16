@@ -10,7 +10,7 @@ class script(object):
 
 🎬 Mᴀɪɴ Cʜᴀɴɴᴇʟ @csmainchannel
 
-- <a href=https://t.me/Sanoob_Achu_18>『𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇』</a>
+<a href='https://t.me/csmainchannel'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>"""
 
     HELP_TXT = """🙋🏻‍♂️   Hᴀɪ  {} 🤓
 

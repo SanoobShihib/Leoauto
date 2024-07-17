@@ -38,15 +38,10 @@ Pᴏᴡᴇʀᴇᴅ Bʏ CS - Tᴇᴀᴍ"""
 ○ ʟɪʙʀᴀʀʏ : ᴘʀᴏɢʀᴀᴍ ᴀsᴜɴᴄɪᴏɴ 𝟢.𝟣𝟩.𝟣 
 ○ sᴇʀᴠᴇʀ : ᴋᴏʏᴇʙ
 ○ ᴅᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com'>ᴍᴀɴɢᴏᴅʙ ғʀᴇᴇ ᴛɪᴇʀ</a>
-○ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : v1.0.1 [BeTa]"""
+○ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : v1.0.1 [BeTa]</b>"""
 
-    SOURCE_TXT = """<b>NOTE:</b>
-Special Thanks to EvaMaria Devs & Cloners for the codes 
-<b>DEV:</b>
-
-- <a href=https://t.me/Sanoob_Achu_18>『𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇』</a>
-
-- Source - https://github.com/ritheshrkrm/PiroAutoFilterBot""" #please don't change repo link give credit :)
+    SOURCE_TXT = """<b>ɴᴏᴛᴇ:</b>
+<b>sᴏʀʀʏ 🙂</b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ

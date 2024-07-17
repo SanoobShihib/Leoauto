@@ -51,7 +51,7 @@ async def start(client, message):
                     InlineKeyboardButton('ᴄs ɢʀᴏᴜᴘ 👥', url=f"https://t.me/{SUPPORT_CHAT}")
                 ],[
                     InlineKeyboardButton('ʜᴇʟᴘ 📢', callback_data='help'),
-                    InlineKeyboardButton('ᴀʙᴏᴜᴛ 📌'', callback_data='about'),
+                    InlineKeyboardButton('ᴀʙᴏᴜᴛ 📌', callback_data='about'),
                 ],[
                     InlineKeyboardButton('ɪɴʟɪɴᴇ sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat='')
                   ]]
@@ -99,7 +99,7 @@ async def start(client, message):
                     InlineKeyboardButton('ᴄs ɢʀᴏᴜᴘ 👥', url=f"https://t.me/{SUPPORT_CHAT}")
                 ],[
                     InlineKeyboardButton('ʜᴇʟᴘ 📢', callback_data='help'),
-                    InlineKeyboardButton('ᴀʙᴏᴜᴛ 📌'', callback_data='about')
+                    InlineKeyboardButton('ᴀʙᴏᴜᴛ 📌', callback_data='about')
                 ],[
                     InlineKeyboardButton('ɪɴʟɪɴᴇ sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat='')
                     

@@ -9,14 +9,12 @@ class script(object):
 
 <b><u>⚙️ Mᴏʀᴇ Hᴇʟᴘ /help</u></b>"""
 
-    HELP_TXT = """🙋🏻‍♂️   Hᴀɪ  {} 🤓
+    HELP_TXT = """🙋🏻‍♂️   ʜᴇy  {} 🤓
 
 ○  ɪᴛ's Nᴏᴛᴇ Cᴏᴍᴘʟɪᴄᴀᴛᴇᴅ...🤓
 
 ○  Sᴇᴀʀᴄʜ Usɪɴɢ ɪɴʟɪɴᴇ Mᴏᴅᴇ
 Tʜɪs Mᴇᴛʜᴏᴅ Wᴏʀᴋs Oɴ Aɴʏ Cʜᴀᴛ Jᴜsᴛ Tʏᴘᴇ <b>Bᴏᴛ UsᴇʀNᴀᴍᴇ</b> Aɴᴅ Tʜᴇɴ Lᴇᴀᴠᴇ A Sᴘᴀᴄᴇ ᴀɴᴅ Sᴇᴀʀᴄʜ Aɴʏ Mᴏᴠɪᴇ Yᴏᴜ Wᴀɴᴛ...
-
-🎬 Mᴀɪɴ Cʜᴀɴɴᴇʟ @csmainchannel
 
 ○ Aᴠᴀɪʟᴀʙʟᴇ Cᴏᴍᴍᴀɴᴅs
      
@@ -32,16 +30,15 @@ Tʜɪs Mᴇᴛʜᴏᴅ Wᴏʀᴋs Oɴ Aɴʏ Cʜᴀᴛ Jᴜsᴛ Tʏᴘᴇ <b>Bᴏ
 
 Dᴏɴᴛ Sᴘᴀᴍ Mᴇ...🤒
 
-😎 Pᴏᴡᴇʀᴇᴅ Bʏ Aᴋ Fɪʟᴍs Tᴇᴀᴍ"""
+Pᴏᴡᴇʀᴇᴅ Bʏ CS - Tᴇᴀᴍ"""
 
     ABOUT_TXT = """<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾: {}
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Sanoob_Achu_18'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
-○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
-○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
-○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
-○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
-○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : v1.0.1 [BeTa]
-○ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href='https://t.me/csmainchannel'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>"""
+○ ᴄʀᴇᴀᴛᴏʀ : ▪️ sᴀɴᴏᴏʙ •  ᴛɢ ▪️
+○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 3 
+○ ʟɪʙʀᴀʀʏ : ᴘʀᴏɢʀᴀᴍ ᴀsᴜɴᴄɪᴏɴ 𝟢.𝟣𝟩.𝟣 
+○ sᴇʀᴠᴇʀ : ᴋᴏʏᴇʙ
+○ ᴅᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com'>ᴍᴀɴɢᴏᴅʙ ғʀᴇᴇ ᴛɪᴇʀ</a>
+○ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : v1.0.1 [BeTa]"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 Special Thanks to EvaMaria Devs & Cloners for the codes 
